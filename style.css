@@ -1,0 +1,160 @@
+*{
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  transition: all .1s ease-in;
+  margin: 0;
+  padding: 0px;
+  color: white;
+}
+body{
+  border-width: 25px;
+  border-color: #2B81AC;
+  border-style: solid;
+  background-color: #3399CC;
+}
+
+h4 {
+  padding-top: 25px;
+}
+
+main {
+  background-color: #3399CC;
+  min-height: 100vh;
+  padding-top: 60px;
+  margin: 0 auto;
+  width: 80%;
+}
+
+.cites {
+  font-size: 0;
+}
+
+li{
+  list-style: none;
+  font-family: sans-serif;
+  text-align: center;
+  border-width: 3px;
+  padding-top: 40px;
+  border-color: white;
+  border-style: solid;
+  display: inline-block;
+  font-size: 24px;
+}
+
+.temp {
+  display: block;
+}
+
+.box1 {
+  width: 50%;
+  height: 150px;
+  box-sizing: border-box;
+  background-color: #3399CC;
+  opacity: 1
+}
+.box1:hover {
+  opacity: 1
+}
+
+.box2 {
+  width: 25%;
+  height: 150px;
+  box-sizing: border-box;
+  background-color: #33CCCC;
+  opacity: 1
+}
+.box2:hover {
+  opacity: 1
+}
+.box3 {
+  width: 25%;
+  height: 150px;
+  box-sizing: border-box;
+  background-color: #996699;
+  opacity: 1
+}
+.box3:hover {
+  opacity: 1
+}
+.box4 {
+  width: 25%;
+  height: 150px;
+  box-sizing: border-box;
+  background-color: #C24747;
+  opacity: 1
+}
+.box4:hover {
+  opacity: 1
+}
+.box5 {
+  width: 25%;
+  height: 150px;
+  box-sizing: border-box;
+  background-color: #E2674A;
+  opacity: 1
+}
+.box5:hover {
+  opacity: 1
+}
+.box6 {
+  width: 25%;
+  height: 150px;
+  box-sizing: border-box;
+  background-color: #FFCC66;
+  opacity: 1
+}
+.box6:hover {
+  opacity: 1
+}
+.box7 {
+  width: 25%;
+  height: 150px;
+  box-sizing: border-box;
+  background-color: #99CC99;
+  opacity: 1
+}
+.box7:hover {
+  opacity: 1
+}
+.box8 {
+  width: 25%;
+  height: 150px;
+  box-sizing: border-box;
+  background-color: #669999;
+  opacity: 1
+}
+.box8:hover {
+  opacity: 1
+}
+.box9 {
+  width: 50%;
+  height: 150px;
+  box-sizing: border-box;
+  background-color: #CC6699;
+  opacity: 1
+}
+.box9:hover {
+  opacity: 1
+}
+.box10 {
+  width: 25%;
+  height: 150px;
+  box-sizing: border-box;
+  background-color: #339966;
+  opacity: 1
+}
+.box10:hover {
+  opacity: 1
+}
+.box11 {
+  width: 100%;
+  height: 150px;
+  box-sizing: border-box;
+  background-color: #666699;
+  opacity: 0.7
+}
+.box11:hover {
+  opacity: 1
+}
+ul:hover li:not(:hover) {
+  opacity: 0.5
+}
